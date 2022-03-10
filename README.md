@@ -3,7 +3,7 @@ This code is developed for a training entitled "Remote sensing and field-based g
 
 Make sure that you have installed following R packages before you execute the script.
 
-# R code starts from here (copy following code and run in R to install all packages required)
+# R code starts from here (copy following code and run in R/RStudio to install all packages required)
 
 list.of.packages <- c("lubridate","ggplot2","rgdal","raster", "stringr","rstudioapi","MODIStsp")
 
