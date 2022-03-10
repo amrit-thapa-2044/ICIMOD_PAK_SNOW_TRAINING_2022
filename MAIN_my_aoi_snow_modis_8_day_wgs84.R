@@ -36,8 +36,8 @@ e_date='2022.02.10'
 my_extent=c(74,35.8,76,37.1) # x1,y1,x2,y2
 
 # provide your userID and password of earthdata login to download data. Without this you can not download the data
-my_Earthdata_Login_userID="amrit2044"
-my_Earthdata_Login_password="@mriT2044524"
+my_Earthdata_Login_userID="XXXX"
+my_Earthdata_Login_password="YYYY"
 
 # let's set the main function to download product using credentials that we defined in earlier steps
 MODIStsp(gui             = FALSE, 
