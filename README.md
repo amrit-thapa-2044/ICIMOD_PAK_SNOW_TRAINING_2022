@@ -13,7 +13,7 @@ new.packages <- list.of.packages[!(list.of.packages %in%
 if(length(new.packages)) install.packages(new.packages, dependencies=TRUE)
 
 # R code ends here
-Once above package sis installed you need to run MAIN_my_aoi_snow_modis_8_day_wgs84.R script to generate improved 8-day maximum snow cover product from MODIS 8-day standard
+Once above packages are installed you need to run MAIN_my_aoi_snow_modis_8_day_wgs84.R script to generate improved 8-day maximum snow cover product from MODIS 8-day standard
 product (M*D10A2) for you area of interest
 
 - user need to define start and end date
